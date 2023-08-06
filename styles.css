@@ -1,0 +1,13 @@
+#border {
+    border-style: ridge;
+}
+
+p.para {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a.food {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
